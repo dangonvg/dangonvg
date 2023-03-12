@@ -1,6 +1,6 @@
 - 🤓 hola a todos! .. soy dangonvg aunque me dicen "dan"
 - busco crear en proyectos 🎲 simples! de uso comercial
-- actualmente escribo mis lineas ⌨ en Golang
+- actualmente escribo mis lineas ⌨ en Go (golang)
 - /* ..tmb entiendo acerca de py, php, sql, css, html, js.. */
 - < !-- manejo herramientas como ai, ps, id, sheets -- >
 - .. puedo colaborar 💬 en pequeñas apis web o desktop.
